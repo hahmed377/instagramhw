@@ -1,0 +1,24 @@
+.container{
+  height: 700px;
+  width: 1000px;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+img{
+  float: left;
+  margin: 10px;
+  display: block;
+}
+.help{
+  color: #000080;
+  font-weight: bold;
+  word-spacing: 30px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.form{
+  display: inline-block;
+}
