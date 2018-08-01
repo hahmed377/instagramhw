@@ -1,29 +1,52 @@
 .container{
-  max-height: 700px;
-  max-width: 1000px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  height: 700px;
+  width: 1050px;
 
 }
 .image{
   float: left;
-  padding: 50px 25px 50px 25px;
+  padding-left: 200px;
 }
 .help{
   color: #000080;
   font-weight: bold;
-  word-spacing: 30px;
-  margin-left: auto;
-  margin-right: auto;
-  float: left;
+  margin-left: 250px;
+  clear: both;
   display: block;
+  padding-top: 40px;
 
 }
+.help ul{
+  list-style-type: none;
+}
+.logIn{
+  text-align: center;
+  border: 2px grey solid;
+  margin-top: 10px;
+
+}
+.rightContainer{
+  float: right;
+  width: 350px;
+  height: 500px;
+  display: inline-block;
+}
+.form button{
+  display: block;
+  margin: auto;
+  width: 250px;
+  background-color: blue;
+  color: white;
+}
+.form input{
+  width: 250px;
+  margin: 5px auto;
+}
 .form{
-  float: left;
-  max-width: 350px;
-  max-height: 800px;
-  padding: 50px
-  border: 0px;
+  border: 2px grey solid;
+  padding: 50px;
+
+}
+.app p{
+  text-align: center;
 }
