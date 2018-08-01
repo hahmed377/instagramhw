@@ -10,10 +10,12 @@
 .help{
   color: #000080;
   font-weight: bold;
-  margin-left: 250px;
+  font-size: 14px;
+  margin-left: 170px;
   clear: both;
   display: block;
   padding-top: 40px;
+  text-align: center;
 
 }
 .help ul{
