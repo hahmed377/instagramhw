@@ -1,0 +1,54 @@
+.container{
+  height: 700px;
+  width: 1050px;
+
+}
+.image{
+  float: left;
+  padding-left: 200px;
+}
+.help{
+  color: #000080;
+  font-weight: bold;
+  font-size: 14px;
+  margin-left: 170px;
+  clear: both;
+  display: block;
+  padding-top: 40px;
+  text-align: center;
+
+}
+.help ul{
+  list-style-type: none;
+}
+.logIn{
+  text-align: center;
+  border: 2px grey solid;
+  margin-top: 10px;
+
+}
+.rightContainer{
+  float: right;
+  width: 350px;
+  height: 500px;
+  display: inline-block;
+}
+.form button{
+  display: block;
+  margin: auto;
+  width: 250px;
+  background-color: blue;
+  color: white;
+}
+.form input{
+  width: 250px;
+  margin: 5px auto;
+}
+.form{
+  border: 2px grey solid;
+  padding: 50px;
+
+}
+.app p{
+  text-align: center;
+}
